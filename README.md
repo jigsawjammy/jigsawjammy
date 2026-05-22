@@ -16,7 +16,6 @@ P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 
 - C
 - Python
-- GDScript
 
 ## Tools I use:
 
@@ -26,11 +25,6 @@ P.S. Hope you're having a great day! ✨🖤✨🖤✨🖤✨🖤
 - vscode
 - Git/Github (obviously)
 - RPG Maker MZ
-
-## Tools I'm learning: 
-
-- Godot
-- Blockbench
 
 ## My future goals:
 
